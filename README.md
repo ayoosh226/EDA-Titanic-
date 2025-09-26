@@ -1,8 +1,3 @@
-Perfect — since your project is a **Titanic EDA in Python**, we’ll write a professional, GitHub-ready `README.md` that showcases your work clearly and impressively.
-Here’s a complete version you can copy-paste and tweak as needed 👇
-
----
-
 # 🚢 Titanic Dataset Exploratory Data Analysis (EDA)
 
 This project is a comprehensive exploratory data analysis (EDA) of the famous **Titanic dataset**, conducted using **Python and Matplotlib**. The goal is to uncover key insights about passenger demographics, survival patterns, and relationships between different variables through data visualization.
